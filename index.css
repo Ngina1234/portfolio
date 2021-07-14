@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-size: 1.2em;
+}
+nav {
+  background-color: #bf5f82;
+  line-height: 3em;
+}
+nav a {
+  color: white;
+}
+header {
+  background-color: 82;#bf5f;
+}
+a {
+  text-decoration: none;
+}
+footer {
+  background-color: #bf5f82;
+}
+footer ul {
+  list-style-type: none;
+  display:flex;
+  justify-content:center ;
+
+}
+footer ul li {
+margin-right: o.8em;
+}
+footer a {
+    color:violet
+}
+Footer p
